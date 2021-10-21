@@ -1,19 +1,19 @@
 {
   "contacts": [
     {
-      "id": "0229b542-d3ee-4932-a6c7-0bfc055ec9d8",
       "name": "qwe",
-      "number": "21312321312"
+      "number": "21312321312",
+      "id": 1
     },
     {
-      "id": "1244195c-27f9-4a35-ad7c-b78f44f3be6d",
-      "name": "карась",
-      "number": "1111111"
+      "name": "asdasdas",
+      "number": "2331232",
+      "id": 2
     },
     {
-      "id": "03562cfb-f905-4047-b26e-0831d1485543",
-      "name": "ибба",
-      "number": "123123"
+      "name": "asd",
+      "number": "21312321312",
+      "id": 3
     }
   ]
 }

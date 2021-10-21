@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { v4 as uuid } from "uuid";
+// import { v4 as uuid } from "uuid";
 import styles from "./ContactForm.module.css";
 import { connect, useDispatch } from "react-redux";
 import { addNewContact } from "../../redux/phonebook/phonebookOperations";
@@ -42,7 +42,6 @@ const ContactForm = ({ contacts }) => {
     }
 
     const newTodo = {
-      id: uuid(),
       name: term.name,
       number: term.number,
     };
